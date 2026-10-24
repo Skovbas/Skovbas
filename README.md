@@ -4,6 +4,7 @@ Full-Stack Developer based in Kraków, Poland. I build web and mobile products e
 
 - Currently working at **Vean Tattoo**
 - Shipped the **VeanTattoo iOS app** to the App Store: appointment booking, loyalty rewards and session check-in
+- Learning DevOps: Linux and Kubernetes
 - Open to full-stack roles: on-site in Kraków or remote (EU / US)
 
 ### Tech stack
@@ -20,3 +21,7 @@ Full-Stack Developer based in Kraków, Poland. I build web and mobile products e
 ### About my activity
 
 Most of my work lives in private company repositories, so the contribution graph shows activity but not the code. Happy to walk you through what I've built.
+
+### Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/serhii-kovbas-b354a8240/)
